@@ -24,8 +24,9 @@ function palindroma(wordToCheck) {
 
         }
         ds--;
+        return result
     }
 
 
-    return result
+   
 }
