@@ -17,10 +17,10 @@ function palindroma(wordToCheck) {
 
         if (wordSD === wordDS) {
             result = true;
-            console.log("ok", result);
+            //console.log("ok", result);
         } else {
             result = false
-            console.log("no", result);
+            //console.log("no", result);
 
         }
         ds--;
@@ -28,5 +28,5 @@ function palindroma(wordToCheck) {
     }
 
 
-   
+
 }
