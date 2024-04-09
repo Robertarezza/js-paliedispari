@@ -26,6 +26,25 @@ function palindroma(wordToCheck) {
         ds--;
         return result
     }
+    // let result = false;
+    // let sd = "";
+
+    // for (let ds =  wordToCheck.length - 1; ds >= 0; ds--) {
+    //     //const wordSD = wordToCheck.charAt(sd);
+    //     const wordDS = wordToCheck.charAt(ds);
+    //     //console.log(newWord );
+
+    //     if (sd === wordDS) {
+    //         result = true;
+    //         //console.log("ok", result);
+    //     } else {
+    //         result = false
+    //         //console.log("no", result);
+
+    //     }
+    //     //ds--;
+    //     return result
+    // }
 
 
 
